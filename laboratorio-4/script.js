@@ -98,6 +98,9 @@ function addDivElement(id, className) {
         console.log("La llave es: " + llave);
         console.log("Los mensajes cifrados son: " + cifrados.length);
         console.log("Los mensajes descifrados son: " + descifrados);
+        for (var i=0; i<cifrados.length; i++){
+            console.log(cifrados[i] + " " + descifrados[i]);
+        }
     };
 
     document.head.appendChild(script);
