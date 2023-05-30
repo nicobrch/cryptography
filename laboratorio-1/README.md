@@ -1,5 +1,4 @@
-
-# Laboratorio 01
+# Laboratorio 1
 
 ## Criptografía y Seguridad en Redes
 
