@@ -1,4 +1,5 @@
 import sys
+import numpy
 
 # Read input file
 with open(sys.argv[1], 'r') as f:
